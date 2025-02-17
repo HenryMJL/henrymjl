@@ -1,42 +1,80 @@
-<h1>👨‍💻 Henry Jimenez | Desarrollador & Creador</h1>
-<p>Aprendiendo, innovando y escribiendo código todos los días.</p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HenryMJL" alt="HenryMJL" /></a></p>
+# 👨‍💻 Henry Jimenez | Desarrollador & Creador  
+💡 Aprendiendo, innovando y escribiendo código todos los días.  
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/henry-jimenez-5970bb295" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
-<h2>🔥 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://img.shields.io/badge/laravel-%23FF2D20.svg" style="display: inline-block;"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" width="102" height="32" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-
-<!--## 🔥 Tecnologías más utilizadas  -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryMJL&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HenryMJL&show_icons=true&locale=en" alt="HenryMJL" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HenryMJL&" alt="HenryMJL" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HenryMJL" alt="HenryMJL" />
+  </a>
 </p>
 
-<!--
-**HenryMJL/henrymjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 ¿Quién soy?
+Soy **Henry Jimenez**, **desarrollador de software** con experiencia en el sector público y privado. Me especializo en **desarrollo web**, **integración de API REST** y **optimización de procesos**. A lo largo de mi carrera, he contribuido al desarrollo de software estratégico, aplicando mejores prácticas para garantizar la **seguridad**, **estabilidad** y eficiencia en las soluciones que desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me apasiona trabajar con **metodologías ágiles**, ya que me permiten entregar resultados de forma eficiente y flexible, adaptándome a las necesidades cambiantes de los proyectos. La **innovación** y la **mejora continua** son motores que me impulsan a estar siempre aprendiendo y perfeccionando mis habilidades.
+
+## 🔧 ¿Qué me motiva?
+Me motiva crear soluciones de software que realmente marquen la diferencia. Disfruto cada reto que implica mejorar procesos, optimizar sistemas y ofrecer aplicaciones web seguras y fáciles de usar. Mi enfoque está siempre en la **calidad** y en **entregar valor** a los usuarios y las empresas con las que trabajo.
+
+## 🚀 Mi Misión
+Mi misión como desarrollador es aplicar mis conocimientos y experiencia para generar un impacto positivo en cada proyecto. Trabajo con pasión y dedicación para asegurar que cada aplicación que desarrollo sea **eficaz**, **segura** y **escalable**. Estoy comprometido con la mejora constante y el aprendizaje continuo para mantenerme a la vanguardia en un entorno tecnológico en constante evolución.
+
+Si estás interesado en colaborar o discutir sobre nuevos proyectos, ¡estoy disponible para conectar!
+
+---
+
+## ⚡️ Dónde encontrarme  
+<p>
+  <a href="https://www.linkedin.com/in/henry-jimenez-5970bb295" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+## 📞 Forma de Contacto  
+📱 **Teléfono:** [+57 3157006718](https://wa.me/573157006718)  
+📧 **Correo:** [henrymauro.j@hotmail.com](mailto:henrymauro.j@hotmail.com)  
+
+---
+
+## 🔥 Lenguajes, Herramientas y Tecnologías más utilizadas  
+<p align="center">
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42">
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42">
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42">
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42">
+  </a>
+  <a href="https://www.chartjs.org" target="_blank">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="42" height="42">
+  </a>
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42">
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryMJL&show_icons=true&locale=es&layout=compact" alt="Lenguajes más usados">
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub  
+<p align="center">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=HenryMJL&show_icons=true&locale=es" alt="Estadísticas de GitHub">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HenryMJL&locale=es" alt="Racha de contribuciones">
+</p>
