@@ -65,6 +65,9 @@ Si estás interesado en colaborar o discutir sobre nuevos proyectos, ¡estoy dis
   <a href="https://git-scm.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42">
   </a>
+  <a href="https://angular.io" target="_blank">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="42" height="42">
+  </a>
 </p>
 
 <p align="center">
